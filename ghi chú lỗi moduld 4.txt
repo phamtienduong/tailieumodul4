@@ -1,0 +1,4 @@
+-sử lý stock khi mua hàng
+- sử lý check tăng giảm
+-trang admin phải có tổng doang thu ngày tháng
+-có danh sách số lượng số sản phẩm
